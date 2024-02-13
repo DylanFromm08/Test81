@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test81</string>
+    <string name="title_activity_aritmatik_calculator">Calculator Activity</string>
+
+    <string-array name="Operator">
+        <item>(Tambah)</item>
+        <item>(Kurang)</item>
+        <item>(Kali)</item>
+        <item>(Bagi)</item>
+    </string-array>
+</resources>
